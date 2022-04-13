@@ -9,5 +9,5 @@ for number in range(integer):
         min=num
     if num > max or number == 0:
         max=num
-print("min: " + str(min) + ".")
-print("max: " + str(max) + ".")
+print("min: " + str(min) + "")
+print("max: " + str(max) + "")
